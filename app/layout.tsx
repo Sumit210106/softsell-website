@@ -15,7 +15,6 @@ export const metadata: Metadata = {
   description:
     "SoftSell helps businesses recover value from unused software licenses with quick valuations, seamless transfers, and fast payments.",
   keywords: "software resale, license resale, software license valuation, sell unused licenses",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
